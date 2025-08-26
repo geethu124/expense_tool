@@ -13,7 +13,7 @@ Filter expenses by user and status
 
 User:
 
- login
+ login - geethu@expenseapp.com - geethu123
 
 Submit new expenses with optional attachments
 
