@@ -1,16 +1,22 @@
+Clone the repository. 
+configure the file in local.
+sql file is attached.
+Admin:
 
-## Contributing
+Login with admin credentials = admin@expenseapp.com - admin@123
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+View a list of all expenses
 
-## Code of Conduct
+Approve or reject expenses
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Filter expenses by user and status
 
-## Security Vulnerabilities
+User:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+ login
 
-## License
+Submit new expenses with optional attachments
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Edit or update their own expenses
+
+View their own expense list
